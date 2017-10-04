@@ -21,7 +21,7 @@ function johnLennonFacts(johnArray) {
 
     johnArray[counter] = johnArray[counter] + '!!!'
 
-    counter++
+    counter--
   }
 
   return johnArray;
