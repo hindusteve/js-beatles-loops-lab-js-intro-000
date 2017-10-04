@@ -35,7 +35,7 @@ function iLoveTheBeatles(number){
 
     fanArray.push("I love the Beatles!");
     number++
-    
+
   } while (number < 15);
-  
+
 }
