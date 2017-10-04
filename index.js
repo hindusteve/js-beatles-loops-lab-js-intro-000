@@ -19,7 +19,7 @@ function johnLennonFacts(johnArray) {
 
   while (counter > 0) {
 
-    johnArray[counter] = johnArray[counter] + '!!!'
+    johnArray[counter-1] = johnArray[counter-1] + '!!!'
 
     counter--
   }
