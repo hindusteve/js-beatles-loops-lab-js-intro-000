@@ -37,5 +37,5 @@ function johnLennonFacts(johnArray) {
 //     number++
 //
 //   } while (number < 15);
-// 
+//
 // }
